@@ -1,0 +1,5 @@
+build:
+  enable: true
+  src: dist
+  dest: /
+  branch: gh-pages
